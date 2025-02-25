@@ -95,3 +95,4 @@ gallery.addEventListener("click", (event) => {
     instance.show();
   }
 });
+GoIt JS HW #9
